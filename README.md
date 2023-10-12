@@ -15,12 +15,9 @@ Install the package through [composer](https://mosoftvn.com)
     - Gạch 1.1 
 - Gạch đầu dòng 2
     - Gạch 2.1 
-
-| cột 1 hàng 1 | cột 1 hàng 1 |
-|-----------------------------|
-| cột 1 hàng 1 | cột 1 hàng 1 |
-| cột 1 hàng 1 | cột 1 hàng 1 |
-| cột 1 hàng 1 | cột 1 hàng 1 |
-| cột 1 hàng 1 | cột 1 hàng 1 |
-| cột 1 hàng 1 | cột 1 hàng 1 |
-| cột 1 hàng 1 | cột 1 hàng 1 |
+## Cài đặt laravel
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
