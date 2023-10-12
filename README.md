@@ -21,3 +21,7 @@ Install the package through [composer](https://mosoftvn.com)
 | January  | $250    |
 | February | $80     |
 | March    | $420    |
+
+Run the Composer require command from the Terminal:
+
+    composer require gloudemans/shoppingcart
